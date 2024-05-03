@@ -14,6 +14,14 @@
     <groupId>com.chungvv</groupId>
     <artifactId>spring-projects</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>spring-crud-simple</module>
+        <module>spring-security-simple</module>
+        <module>spring-microservice</module>
+        <module>spring-websocket</module>
+        <module>spring-batch-project</module>
+    </modules>
 
     <dependencies>
         <dependency>
